@@ -1,0 +1,6 @@
+note :
+1. slider image file type .jpg size 2000 x 1329
+2. logo image file type .png size 126x100
+3. retina logo file type .png size 2x(logo) @2x added onto the end of the name
+4. backstage image file size 400x250 (3 images)
+5. 
